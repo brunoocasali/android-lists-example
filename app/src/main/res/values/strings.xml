@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ListExample</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_data_include">DataIncludeActivity</string>
+    <string name="button_tile">Botão bem Loko</string>
+    <string name="txt_label">Name:</string>
+</resources>
