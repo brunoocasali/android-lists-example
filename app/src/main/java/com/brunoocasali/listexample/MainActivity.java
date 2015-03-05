@@ -21,7 +21,7 @@ public class MainActivity extends ListActivity{
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        setTitle("Lista de Nomes!");
+        setTitle("Names List!");
 
         ListView list = getListView();
         adapter = new ArrayAdapter<>(this, android.R.layout.simple_list_item_1, names);

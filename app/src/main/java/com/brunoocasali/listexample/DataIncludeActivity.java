@@ -15,7 +15,7 @@ public class DataIncludeActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_data_include);
-        setTitle("Inclusão de dados!");
+        setTitle("Data Inclusion!");
 
         fieldName = (EditText) findViewById(R.id.editText);
     }
